@@ -1,0 +1,132 @@
+CHAPTER 10 - MOBILE DESIGN
+
+1.	What do you think are some of the differences in designing for something that is always with you (like a mobile phone), compared to something you use in a fixed location such as a desktop computer?
+
+   Since the basic principles are the same, the main difference is that people moving faster and reading even less on small screens. People are just as likely to be using their mobile devices while sitting on the couch at home, and they want (and expect) to be able to do everything. Since the screen size is very small in mobile devices, it is very crucial to determine what is essential, what people needed most. Things people want to use in a hurry or frequently should be close at hand. Everything else can be a few taps away, but there should be an obvious path to get to them.
+
+2.	Think of an app that in your opinion has made poor choices about some trade-offs or constraints, like the ones the author complains about in the CBS News app (breaking stories into too-small chunks, taking too long to load, and having to scroll past the same photo on each page before getting to any text)?  Describe the app and explain your experience.
+
+   I tried Craigslist website and mobile app. Although, the experience was the same for both, there is some minor trade-offs in the mobile app. On the website, the search function shows predictive input options when we type something, but not in mobile app. It would be helpful if the predictive input is on the app, so that the user need not type lengthy queries. There is an event calendar on the website, but they removed it from the mobile app.
+
+3.	Which do you use more: your phone or a desktop or laptop computer? How much overlap is there in the ways that you use them?  Do you prefer using one over the other?
+
+   I use my laptop computer more than my smartphone. I only use my phone for calling, messaging, watching YouTube videos, social media apps like Facebook and for taking photos. Although I like to watch YouTube videos and make video calls in my laptop, because of portability and availability, most of the time I was forced to use mobile phone. I don’t prefer using one over the other because both cater our needs depending on our situation and lifestyle. For example, I usually visit websites on my laptop when I am at home, but when I am travelling, I use mobile phone.
+
+4.	What’s your favorite mobile app? Why?  
+
+   My favorite mobile app is WhatsApp because I can make voice or video calls, personal chats, and group chats, send or receive files on the go. Sometimes I use this as my regular calling device when I only have WIFI connectivity. It is super helpful when I need to send or receive files urgently.
+
+
+5.	Have you ever purchased a mobile app that turned out to be too hard to learn?  Or too hard to use?
+
+   Not yet.
+
+
+6.	Do you know people who rarely talk on their (phones preferring to text or email)? How do you think mobile devices are changing how we interact with each other?
+
+   Yes, I know some of my friends and relatives, mostly teenagers, they are using mobile phones to chat with friends through social media platforms, to play video games, taking photos and videos. 
+
+7.	Describe an app that you find “delightful” and explain why, in the same way the author explained his examples of SoundHound and Paper.  Do not use the same app example as question 4.  Also, say whether you think the designers of the app made it both delightful and usable, or sacrificed some usability in their effort to achieve delight.
+
+   I found it delightful when I started using YouTube app in my mobile phone. It is very much same in usability, and nothing is sacrificed in the mobile version to achieve the delightful experience of watching favourite videos on the go. The connectivity options like Chromecast are very helpful to overcome the small screen limitations, whenever we want. Also, the YouTube live functionality is more meaningful in mobile devices than desktop.
+
+
+
+8.	Find an app that does a good job of providing help or a tutorial or training about how to use it. Describe the app and how it works.
+
+   Indeed Jobs mobile app. It has a very good help page which provides detailed information about account, job alerts, job search tips, Indeed resume, applying for a job and Indeed assessments. The user can search in the search bar or click on the corresponding section links. Also, if the user could not find an answer for their query, they can use the direct email option too.
+
+9.	Find a friend, family member, or classmate who would be willing to do a usability test conducted by you.  You can ask more than one person, but at least one other person is needed.
+•	Choose an app that you know but the other person doesn’t.  
+•	Write down the usability tasks you would ask them to do to see if they can use the app. (The author gives a brief description of a demo usability test for the app “Clear” on pages 157-158).
+•	Download and print (or send a copy to the other person digitally) the Mobile Test Script at http://sensible.com/downloads/test-script-mobile.pdf
+•	Run the test on the participant(s)
+•	Read the test script
+•	Hand the participant the first task, and read it out loud to them
+•	Encourage them to talk out loud as they are doing each task
+•	Continue handing the participant one task at a time until you are done with all the tasks
+•	At the end, write down and answer any questions the participant has about the test or probe for their thoughts on places you wanted to know more about their actions (or inactions)
+•	Thank the participant(s)
+•	After the session, write down the observer’s top three problems they observed during the test
+•	Write a summary of the test including what went well, the most important things to fix, any suggestions on how to fix them, and any issues with the test itself.  What would you do differently next time?
+
+   I chose BCLC Lotto mobile app which I use to buy and check results of BCLC lotteries. I requested my wife to perform the usability test for this app.
+
+   Tasks
+      1.	Sign in using the account credentials created before.
+      2.	Buy a lotto max ticket with 1 play and 1 extra using quick pick option.
+      3.	Check the result of a printed lottery ticket using scanning the ticket.
+      
+   Test Summary
+      The test went very well, and she performed all tasks without any doubt. According to her, the app is super easy to use, and the user interface is so simple to remember.
+
+10.Find an app that can be used in both mobile and desktop versions and try it on at least two different screen sizes (such as smartphone, tablet, laptop, desktop).  Write up your notes on the differences among the versions and answer these questions:
+•  Are there significant differences in features among the versions? What differences did you notice?
+   Indeed Job website vs Mobile App
+   I could not find any significant differences in features among mobile and desktop versions other than the user cannot post jobs in the mobile app, when I tried to post a job the app notified me  to go to main indeed site. Also, there is a job feed tab in mobile app, that is not provided in desktop version, which automatically updates job listings based on recent searches.
+•  Does one version seem to work significantly better than the others? In what ways?
+   I could not find any significant differences in performance of these versions. 
+•	How did the designers adapt to smaller screen sizes? Did they scale down the size of elements? Eliminate elements?
+   Actually, they re-arranged some elements to different pages, lists and tabs. They did not scale down or eliminate any notable elements.
+
+
+CHAPTER 11 - USABILITY AS COMMON COURTESY
+
+1.	Krug has a list of things your site can do that make a user’s goodwill plunge:
+1.	Hiding information that I want, like phone numbers, shipping rates, and prices.
+2.	Making me enter data in a specific format (e.g., no spaces in my credit card number)
+3.	Asking me for information you don’t really need.
+4.	Disingenuous attempts to convince me that you care about me. (“Your call is very important to us.”)
+5.	Putting lots of marketing between me and the content I’m looking for.
+6.	Looking amateurish.
+Which ones annoy you the most, and why? Can you think of any others that aren’t on the list?
+
+   I don’t like putting lots of marketing between me and the content I am looking for because these materials make it difficult for me to find the content I want. I need to spend more time for it. Also, I don’t like websites that are not updated their contents for years especially if that data is crucial for the customers to make decisions.
+
+
+2.	Pick something that really annoys you about a site or an app and try to figure out why the designers did it that way.  Do you think they had a business reason, or were they just careless or didn’t they think about what their users wanted or needed?
+
+   Recently, I visited the website called http://www.demetrespizza.ca/ to order a pizza, on my mobile phone. The main drawback that annoys me is it is not a mobile friendly website. The menu page is just a copy of their printed paper menu. It is very hard to read and find the one what we need. Also, I wish they could have provided a button or link to make a call (to order pizza) directly from the page so that customers don’t need to type on phone. I think they were carelessly designed the website without considering their user expectations.
+
+
+3.	In this passage, Krug seems to be saying that it’s acceptable to abuse your users as long as you are making a conscious, informed business decision:
+
+       	 There may be times when you’ll choose to have your site do some of these user-
+       	 unfriendly things deliberately. Sometimes it makes business sense not to do
+       	 exactly what the customer wants. For instance, uninvited pop-ups almost always
+       	 annoy people to some extent. But if your statistics show you can get 10 percent
+       	 more revenue by using pop-ups and you think it’s worth annoying your users, you
+       	 can do it. It’s a business decision. Just be sure you do it in an informed way, rather
+       	 than inadvertently.
+
+ 	Do you agree? Can you reconcile this with his advice to be a mensch?
+	   I agree. As long as the website can help users what they want to achieve with it, I believe the website can retain its integrity.
+	
+4.	When a site pops up a message that asks you if you would be willing to give feedback about the site, does that increase or diminish your goodwill?
+   It does nothing with my goodwill to the company or website.
+
+5.	When you open a website on a mobile device, you are often asked if you want to download the corresponding mobile app instead.  What do you usually do when this happens?
+   If I visit the website very often and I am convinced that the app can serve me better on mobile device, I will download the app.
+
+6.	Think of a site or app that increased your goodwill and explain what, specifically, it did to earn it. Did these positive feelings cause you to change your behaviour in any way (e.g., recommend it to a friend)?
+
+   I like to mention the website named https://www.remitly.com, which is my favourite choice to send money to my native country, India. It is available as a mobile app also. It is very easy to use, and the exchange rates are also better. The user has two options to send money, in the economy mode, it will take some days to send money but with better exchange rate, in the express mode the money will deposited within minutes, but the rate is a bit low. I found the user interface very straight forward and the user get notifications on every step of transaction process. I can easily recommend this website or app to my friends without any hesitation.
+
+7.	Find or design an example of an interface that makes it easy to enter a credit card number in the correct format.  (Add this design to your homework directory in a separate file from the text file, for example: credit_card.html)
+   https://codemyui.com/material-design-3d-credit-card-form-with-microinteractions/
+
+8.	Give an example of a site or app that saves you time.
+   LifeLabs – Net Check In (Save My Spot) mobile app. It allows me to check in remotely using my phone, so I can spend my time my way while waiting for my turn. 
+
+9.	Find an example of a site that looks less than professional and say what you would do to improve it.
+   I found the site http://www.demetrespizza.ca/  which seems less than professional to me. The main drawback that annoys me is it is not a mobile friendly website. The menu page is just a copy of their printed paper menu. It is very hard to read and find the one what we need. Also, I wish they could have provided a button or link to make a call (to order pizza) directly from the page so that customers don’t need to type on phone.
+
+   I like to upgrade this site by making it mobile first because most of the people use mobiles to search web especially on the go. I like to replace the “Call now” text on top of the page to a clickable button so that users can easily make a call without typing the phone number. I think it is better to attract more customer calls if the site shows the deals and other promotions on the homepage as a Slideshow or Carousel. Also, I will change the menu to a grid layout or list groups, so that the users can easily scroll and find items. Also, I like to add a google map section to the contact us page, so that users can easily find the location if they want to pick up from the store.
+
+10.	Go to CodeCore’s website (https://codecore.ca), download the app, or do both.  Pick at least 3 tasks to accomplish. (For example, finding information regarding a program, or getting contact details, etc.).  Chart your level of goodwill as you use the site.  Write about your experience, good or bad.  Don’t be afraid to mention things that you may wish to improve.
+
+   1.	When I tried to know more about the college, I navigated to the about page. It has a lot of text information, some of them are already appear in the slides and in the footer area. Also, I got to know that the page is not updated for years. The college started in 2008, and the banner says 5 years and going strong. Being a well reputed institution in Web development field, I think they should care about these kind of content errors.
+   2.	It was easy to find information about a particular program. I like the grid like structure of the program show page. But some of the program show pages don’t have “apply” button.
+   3.	The “contact” page is very neatly arranged and has all the information needed. But in the contact form’s academic interest section, intake date selection list shows option that is already passed away.
+      Overall, it was a good experience using this website. But it needs some small improvements and bug fixes as I mentioned above.
+
